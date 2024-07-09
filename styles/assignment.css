@@ -99,3 +99,12 @@
     font-size: larger;
     color: #0D1321;
 }
+.Inspiration{
+    margin: 24px 163px 0;
+    text-align: center;
+}
+.video-container{
+    text-align: center;
+    border-radius: 16px;
+    margin: 32px;
+}
