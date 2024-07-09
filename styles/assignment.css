@@ -62,9 +62,18 @@
     
     margin: 80px 97px;
 }
-.wwd{
-    margin: 80px 144px 0;
-}
+
 .mar{
     margin-top: 24px;
+}
+.learn{
+    padding: 12px 20px;
+}
+.coding{
+    display: flex;
+    justify-content:space-between;
+
+}
+.cd{
+    padding: 10px;
 }
