@@ -64,7 +64,7 @@
 }
 
 .mar{
-    margin-top: 24px;
+    margin:24px 47px 0;
 }
 .learn{
     padding: 12px 20px;
@@ -72,8 +72,30 @@
 .coding{
     display: flex;
     justify-content:space-between;
+    margin: 58px 98px 58px 48px;
 
 }
 .cd{
-    padding: 10px;
+    padding-right: 100px;
+}
+.will{
+    padding-right: 200px;
+}
+.help{
+    display: flex;
+}
+.day{
+    margin: 10px 101px 10px 32px;
+}
+.by-day{
+    margin: 16px 0 32px;
+}
+.world{
+    padding-right: 80px;
+}
+.wwd{
+    margin-bottom: 24px;
+    text-align: center;
+    font-size: larger;
+    color: #0D1321;
 }
