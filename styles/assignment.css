@@ -162,6 +162,7 @@
 }
 .background-img{
     background-image: url('../assets/handshake.jpg');
+    background-size: cover;
     border-radius: 16px;
     width:1140px ;
     height: 450px;
