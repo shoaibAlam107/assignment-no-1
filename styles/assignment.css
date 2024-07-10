@@ -183,3 +183,18 @@
     justify-content: space-between;
     margin-top: 79px;
 }
+.navy{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    padding-left: 400px;
+    padding-right: 200px ;
+}
+.button-primary{
+    background-color: #0D1321;
+    color: #ffffff;
+    margin: 32px 395px 0;
+    font-size: medium;
+    padding: 17px 24px;
+
+}
