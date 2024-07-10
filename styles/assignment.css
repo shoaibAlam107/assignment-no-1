@@ -108,3 +108,20 @@
     border-radius: 16px;
     margin: 32px;
 }
+.video-container{
+    text-align: center;
+}
+.skill-container{
+    display: flex;
+    gap: 24px;
+    margin-top: 48px;
+}
+.gap{
+    margin-top: 149px;
+}
+.hyper{
+    margin-right: 20px;
+}
+.image{
+    padding: 40px 228px 0 0px;
+}
