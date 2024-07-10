@@ -6,9 +6,11 @@
   font-weight:normal;
   font-style: normal;
 }
-.top{
+nav{
     display: flex;
     justify-content: space-between;
+    padding: 17px 24px 17px 24px;
+    flex-direction: row;
 }
 .head{
     width: 114px;
@@ -44,12 +46,11 @@
     height: 582px;
     max-width: 1140px;
    margin: 0px auto;
+   background-image:url('../assets/Hero-bg.png') ;
     
 }
-.header{
-   
-    background-image:url('../assets/Hero-bg.png') ;
-}
+    
+    
 .description{
     padding: 24px 73px 0px;
 }
@@ -110,14 +111,18 @@
 }
 .video-container{
     text-align: center;
+    width: 1076px;
+    
 }
 .skill-container{
     display: flex;
-    gap: 24px;
-    margin-top: 48px;
+    gap:0;
+    
+   
+    
 }
 .gap{
-    margin-top: 149px;
+    margin-top: 100px;
 }
 .hyper{
     margin-right: 20px;
@@ -129,4 +134,51 @@
     display: flex;
     margin-top: 5px;
     
+    
+}
+.skill{
+ padding: 40px;
+
+} 
+.need{
+    text-align: center;
+    margin: 64px 205px 31px;
+
+}
+.footer{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.input{
+    padding: 19px 215px 19px 20px;
+    border-radius: 8px;
+    color: #0D1321;
+    background-color:white ;
+}
+.submit{
+    padding: 17px 20px;
+    color: #0D1321;
+    background-color:white
+}
+.form {
+    text-align: center;
+    margin:31px 228px 58px 230px;
+}
+.background-img{
+    background-image: url('../assets/handshake.jpg');
+    border-radius: 16px;
+    width:1140px ;
+    height: 450px;
+    margin: 0 170px 0 100px;
+    padding:64px 48px 64px 48px;
+    justify-content: center;
+   
+}
+.f-head{
+   color: #ffffff;
+    font-size: large;
+}
+.prb{
+    color: #ffffff;
+    font-size:;
 }
