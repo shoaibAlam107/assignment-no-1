@@ -125,3 +125,8 @@
 .image{
     padding: 40px 228px 0 0px;
 }
+.title-style{
+    display: flex;
+    margin-top: 5px;
+    
+}
