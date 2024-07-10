@@ -6,11 +6,7 @@
   font-weight:normal;
   font-style: normal;
 }
-nav{
-    display: flex;
-    justify-content: space-between;
-    padding: 17px 24px 17px 24px;
-    flex-direction: row;
+
 }
 .head{
     width: 114px;
@@ -181,4 +177,9 @@ nav{
 .prb{
     color: #ffffff;
     font-size:;
+}
+.icon{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 79px;
 }
